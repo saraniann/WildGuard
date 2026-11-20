@@ -1,0 +1,32 @@
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# YOLO outputs and model weights
+runs/
+*.pt
+*.onnx
+*.tflite
+
+# Large or private datasets and test videos
+dataset/images/
+dataset/labels/
+testing/videos/
+
+# Android build files
+.gradle/
+build/
+**/build/
+local.properties
+*.apk
+*.aab
+
+# IDE files
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
