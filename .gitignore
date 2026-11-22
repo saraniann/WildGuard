@@ -11,8 +11,7 @@ runs/
 *.tflite
 
 # Large or private datasets and test videos
-dataset/images/
-dataset/labels/
+dataset/
 testing/videos/
 
 # Android build files
