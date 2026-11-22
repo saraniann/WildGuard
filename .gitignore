@@ -12,6 +12,7 @@ runs/
 
 # Large or private datasets and test videos
 dataset/
+dataset.zip
 testing/videos/
 
 # Android build files
